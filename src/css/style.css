@@ -1,0 +1,13 @@
+
+.btn {
+    width: auto;
+    height: 38px;
+    color: white;
+    background-color: #dc3545;
+    border-color: #dc3545;
+    font-size: large;
+}
+
+html {
+    max-width: 260px;
+}
