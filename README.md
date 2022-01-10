@@ -1,1 +1,1 @@
-# forms
+[![Build status](https://ci.appveyor.com/api/projects/status/muxho5ngffqs4437?svg=true)](https://ci.appveyor.com/project/petrikovandrey/forms)
